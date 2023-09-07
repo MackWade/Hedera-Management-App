@@ -1,2 +1,2 @@
 # Hedera-Management-App
-Mac console application used to analyze crypto currencies
+Mac command-line application used to analyze crypto currencies
